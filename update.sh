@@ -19,7 +19,7 @@ update_config () {
 	echo "Config update done."
 
 	echo "Channel list reload started..."
-	wget -qO - http://127.0.0.1/web/servicelistreload?mode=0
+	wget --no-verbose -O - http://127.0.0.1/web/servicelistreload?mode=0
 	echo "Channel list reload done."
 
 	touch /tmp/config-updated
