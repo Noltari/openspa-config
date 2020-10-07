@@ -12,23 +12,23 @@ PICONS_VERSION_URL="https://raw.githubusercontent.com/Noltari/openspa-picons/mas
 
 update_config () {
 	echo "Config update started..."
-
 	mkdir $TMP_DIR/config-repo
 	wget --no-verbose -O - $CONFIG_REPO | tar xz --strip 1 -C $TMP_DIR/config-repo
 	rsync -avh $TMP_DIR/config-repo/files/ $CONFIG_DIR
 	cp $TMP_DIR/config-repo/version $CONFIG_VERSION_FILE
-
 	echo "Config update done."
+
+	echo "Channel list reload started..."
+	wget -qO - http://127.0.0.1/web/servicelistreload?mode=0
+	echo "Channel list reload done."
 }
 
 update_picons () {
 	echo "Picons update started..."
-
 	mkdir $TMP_DIR/picons-repo
 	wget --no-verbose -O - $PICONS_REPO | tar xz --strip 1 -C $TMP_DIR/picons-repo
 	rsync -avh --include="*.png" --exclude="*" $TMP_DIR/picons-repo/ $PICONS_DIR --delete
 	cp $TMP_DIR/picons-repo/version $PICONS_VERSION_FILE
-
 	echo "Picons update done."
 }
 
