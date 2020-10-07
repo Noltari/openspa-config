@@ -21,6 +21,8 @@ update_config () {
 	echo "Channel list reload started..."
 	wget -qO - http://127.0.0.1/web/servicelistreload?mode=0
 	echo "Channel list reload done."
+
+	touch /tmp/config-updated
 }
 
 update_picons () {
@@ -30,6 +32,8 @@ update_picons () {
 	rsync -avh --include="*.png" --exclude="*" $TMP_DIR/picons-repo/ $PICONS_DIR --delete
 	cp $TMP_DIR/picons-repo/version $PICONS_VERSION_FILE
 	echo "Picons update done."
+
+	touch /tmp/picons-updated
 }
 
 main () {
