@@ -3,7 +3,7 @@
 ##########################################################################
 ###   Plik CCcam.prio wygenerowany automatycznie                       ###
 ###   Wygenerowano na stronie http://kos.hdsat.pl                      ###
-###   Plik utworzono 30.01.2021 11:07:34                               ###
+###   Plik utworzono 21.02.2021 08:42:20                               ###
 ###   Autor: rufus1987                                                 ###
 ###   Uwagi i propozycje proszę wysyłac na PW dvhk user rufus1987      ###
 ###   http://www.forum.dvhk.pl/private.php?do=newpm&u=127933           ###
@@ -88,6 +88,7 @@ P: 1810:000000:77BD	#"Canal+ esp - Movistar LaLiga 2"
 P: 1810:000000:77C1	#"Canal+ esp - Canal Hollywood"
 P: 1810:000000:77C3	#"Canal+ esp - Movistar Liga Campeones"
 P: 1810:000000:77C6	#"Canal+ esp - Movistar Cine Doc & Roll"
+P: 1810:000000:77C7	#"Canal+ esp - DreamWorks"
 P: 1810:000000:77D8	#"Canal+ esp - Movistar Liga Campeones 3"
 P: 1810:000000:0000	#"Canal+ esp - Nazwa"
 P: 1810:000000:76C0	#"Canal+ esp - Movistar Estrenos"
