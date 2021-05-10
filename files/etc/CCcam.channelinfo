@@ -3,7 +3,7 @@
 ##########################################################################
 ###   Plik CCcam.channelinfo wygenerowany automatycznie                ###
 ###   Wygenerowano na stronie http://kos.hdsat.pl                      ###
-###   Plik utworzono 18.04.2021 19:04:58                               ###
+###   Plik utworzono 10.05.2021 18:17:17                               ###
 ###   Autor: rufus1987                                                 ###
 ###   Uwagi i propozycje proszę wysyłac na PW dvhk user rufus1987      ###
 ###   http://www.forum.dvhk.pl/private.php?do=newpm&u=127933           ###
@@ -21,7 +21,7 @@
 1810:000000:749A "Canal+ esp - Divinity"
 1810:000000:749B "Canal+ esp - Fox News"
 1810:000000:749C "Canal+ esp - Baby TV"
-1810:000000:749D "Canal+ esp - Movistar Oscars"
+1810:000000:749D "Canal+ esp - Movistar Tolkien"
 1810:000000:749E "Canal+ esp - Boing Spain"
 1810:000000:749F "Canal+ esp - Energy"
 1810:000000:74A0 "Canal+ esp - Barça TV"
@@ -38,6 +38,9 @@
 1810:000000:7699 "Canal+ esp - Mezzo"
 1810:000000:769A "Canal+ esp - LaLiga TV Bar 2"
 1810:000000:769B "Canal+ esp - Movistar Deportes 5"
+1810:000000:769D "Canal+ esp - Movistar LaLiga 1"
+1810:000000:769E "Canal+ esp - Movistar LaLiga 3"
+1810:000000:769F "Canal+ esp - Movistar Liga Campeones 2"
 1810:000000:76A3 "Canal+ esp - Multideporte"
 1810:000000:76A4 "Canal+ esp - DAZN 1 Spain"
 1810:000000:76A5 "Canal+ esp - Sundance TV"
@@ -109,19 +112,23 @@
 1810:000000:76CC "Canal+ esp - Teledeporte"
 1810:000000:76CE "Canal+ esp - Canal Cocina"
 1810:000000:76CF "Canal+ esp - AMC Spain"
+1810:000000:756B "Canal+ esp - Paramount Channel Spain"
 1810:000000:756C "Canal+ esp - #Vamos Bar1"
 1810:000000:756D "Canal+ esp - Movistar Deportes 7"
 1810:000000:7570 "Canal+ esp - Toros"
 1810:000000:7574 "Canal+ esp - LaLiga TV Bar 3"
 1810:000000:7575 "Canal+ esp - Movistar Deportes 6"
 1810:000000:7576 "Canal+ esp - M.LCAMPEON8"
+1810:000000:7577 "Canal+ esp - Classica"
 1810:000000:7579 "Canal+ esp - Movistar LaLiga 5"
 1810:000000:757B "Canal+ esp - Canal+ Liga Campeones"
 1810:000000:757C "Canal+ esp - M.LCAMPEON6"
 1810:000000:757D "Canal+ esp - M.LCAMPEON5"
 1810:000000:757E "Canal+ esp - Movistar LaLiga 6"
+1810:000000:757F "Canal+ esp - Disney+ Spain"
 1810:000000:7582 "Canal+ esp - LaLiga TV Bar 4"
 1810:000000:7584 "Canal+ esp - #Vamos Bar2"
+1810:000000:7587 "Canal+ esp - Neox"
 1810:000000:7882 "Canal+ esp - Movistar Series HD"
 1810:000000:7884 "Canal+ esp - Viajar HD"
 1810:000000:7885 "Canal+ esp - TCM HD Spain"
@@ -174,10 +181,10 @@
 1810:000000:74DB "Canal+ esp - Movistar Liga Campeones 2"
 1810:000000:75F9 "Canal+ esp - Paramount Channel Spain"
 1810:000000:75FE "Canal+ esp - Neox"
-1810:000000:7601 "Canal+ esp - Movistar LaLiga 3"
+1810:000000:7601 "Canal+ esp - "
 1810:000000:7602 "Canal+ esp - Classica"
 1810:000000:7607 "Canal+ esp - Disney+ Spain"
-1810:000000:760A "Canal+ esp - Movistar Liga Campeones 2"
-1810:000000:760E "Canal+ esp - Movistar LaLiga 1"
+1810:000000:760A "Canal+ esp - "
+1810:000000:760E "Canal+ esp - "
 1810:000000:1F4A "Canal+ esp - Mezzo"
 1810:000000:6FF0 "Canal+ esp - VH-1 (Video Hits One)"
