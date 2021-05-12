@@ -57,7 +57,7 @@ main () {
 	if [ -f "$PICONS_VERSION_FILE" ]; then
 		local_version="$(cat $PICONS_VERSION_FILE)"
 		wget -O picons-version $PICONS_VERSION_URL
-		remote_version="$(cat config-version)"
+		remote_version="$(cat picons-version)"
 		if [ "$local_version" -lt "$remote_version" ]; then
 			update_picons
 		fi
