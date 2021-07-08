@@ -182,6 +182,9 @@ p:Movistar+
 74d8:00c00000:03f8:0001:25:183
 DAZN 3 HD
 p:Movistar+
+74ce:00c00000:03f8:0001:25:62
+EUROSPORT2HD
+p:Movistar+,C:0000
 1b60:00c00000:03fc:0001:1:141
 Cubavision Internacional
 p:GLOBECAST,c:0002c4,c:0102d8,c:0302c4
@@ -675,4 +678,4 @@ p:DIGITAL+,C:0000
 VH1
 p:MTV Networks Europe,c:000bf5,c:010bf6,c:031fdc
 end
-Edited with dreamboxEDIT 7.2.1.0 on 05jul.2021 17:49:03
+Edited with dreamboxEDIT 7.2.1.0 on 08jul.2021 17:52:38
